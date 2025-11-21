@@ -1,15 +1,15 @@
-# Olá! Eu sou o Pedro =)
+# Hello! I'm Pedro =)
 
-Desenvolvedor Full Stack Web com +1 ano de experiência, apaixonado por transformar ideias em aplicações funcionais e escaláveis. Atualmente atuando no Grupo Unicad com foco em segurança e monitoramento.
+Full Stack Web Developer with +3 years of experience, passionate about transforming ideas into functional and scalable applications. Currently working at Grupo Unicad with a focus on security and monitoring.
 
-## Sobre mim
+## About me
 
-- 💼 Trabalho como Full Stack Developer, usando tecnologias como **React, Node.js, TypeScript e PostgreSQL**.
-- 🕹️ Já participei da **GameXP (2018 e 2019)** apresentando jogos desenvolvidos com **Unity e C#**.
-- 🎨 Também atuei como ilustrador na área de design esportivo, unindo criatividade ao desenvolvimento.
-- 📚 Estudante de **Ciência da Computação** e eterno curioso em **desenvolvimento web, mobile e de jogos**.
+- 💼 Working as a Full Stack Developer, using technologies like **React, Node.js, TypeScript and PostgreSQL**.
+- 🕹️ Showcased games at **GameXP (2018 and 2019)** developed with **Unity and C#**.
+- 🎨 Also worked as an illustrator in sports design, combining creativity with development.
+- 📚 **Computer Science** student and forever curious about **web, mobile and game development**.
 
-## Tecnologias que domino
+## Technologies I master
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,19 +22,19 @@ Desenvolvedor Full Stack Web com +1 ano de experiência, apaixonado por transfor
   <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
- Outras: JavaScript, Redux, React Query, TypeORM, Express, MySQL, Sequelize, Styled Components, WebSocket, HTML/CSS, Python, C++, XML.
+ Others: JavaScript, Redux, React Query, TypeORM, Express, MySQL, Sequelize, Styled Components, WebSocket, HTML/CSS, Python, C++, XML.
 
-## Atualmente estou aprendendo
+## Currently learning
 
-- Práticas avançadas de arquitetura com **TypeScript**
-- Desenvolvimento **mobile** como hobby
-- Aprofundando em **AWS e CI/CD**
+- Advanced architecture practices with **TypeScript**
+- **Mobile** development as a hobby
+- Deepening knowledge in **AWS and CI/CD**
 
-## Vamos colaborar?
+## Let's collaborate?
 
-Estou sempre aberto a colaborar em projetos open source, freelas ou startups. Gosto de desafios e de trabalhar com pessoas apaixonadas por tecnologia.
+I'm always open to collaborating on open source projects, freelance work or startups. I enjoy challenges and working with people passionate about technology.
 
-## Como me encontrar
+## Find me
 
 - Email: **ph_taka@hotmail.com**
 - LinkedIn: [linkedin.com/in/pedro-taka-4515612a9](https://www.linkedin.com/in/pedro-taka-4515612a9/)
